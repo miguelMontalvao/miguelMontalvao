@@ -78,7 +78,7 @@ Solução tecnológica voltada ao mapeamento de áreas de risco de tuberculose n
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelMontalvao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelMontalvao&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelMontalvao&layout=compact&theme=tokyonight&hide_border=true"/>
 
