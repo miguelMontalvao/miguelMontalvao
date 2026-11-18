@@ -1,6 +1,6 @@
  <div align="center">
 
-# Olá! Eu sou o Miguel 👋
+# Olá! Eu sou o Miguel 
 
 ### Estudante de Engenharia de Software | Desenvolvedor em formação
 
@@ -21,10 +21,10 @@ Atuo com desenvolvimento de aplicações, criação de landing pages, automaçõ
 
 Gosto de aprender na prática, explorar novas ferramentas e transformar problemas em projetos funcionais.
 
-- 🎓 Engenharia de Software — FIAP
-- 💻 Desenvolvimento Web e soluções digitais
-- 📊 Interesse em dados, automação e tecnologia
-- 🚀 Sempre buscando evoluir como desenvolvedor
+-  Engenharia de Software — FIAP
+-  Desenvolvimento Web e soluções digitais
+-  Interesse em dados, automação e tecnologia
+-  Sempre buscando evoluir como desenvolvedor
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -74,7 +74,7 @@ Solução tecnológica voltada ao mapeamento de áreas de risco de tuberculose n
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Solução tecnológica voltada ao mapeamento de áreas de risco de tuberculose n
 
 ---
 
-## 🌎 About me
+##  About me
 
 I'm a Software Engineering student at FIAP and an aspiring developer passionate about building digital solutions.
 
